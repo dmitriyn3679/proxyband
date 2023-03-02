@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/proxyband/static/css/main.3ac5f87c.css",
-    "main.js": "/proxyband/static/js/main.ec88012f.js",
-    "static/media/cat-7738210_640.jpeg": "/proxyband/static/media/cat-7738210_640.085bc5da56fe99a8dfdf.jpeg",
-    "index.html": "/proxyband/index.html",
-    "main.3ac5f87c.css.map": "/proxyband/static/css/main.3ac5f87c.css.map",
-    "main.ec88012f.js.map": "/proxyband/static/js/main.ec88012f.js.map"
+    "main.css": "/codebridge-news/static/css/main.3ac5f87c.css",
+    "main.js": "/codebridge-news/static/js/main.bcf47ddd.js",
+    "static/media/cat-7738210_640.jpeg": "/codebridge-news/static/media/cat-7738210_640.085bc5da56fe99a8dfdf.jpeg",
+    "index.html": "/codebridge-news/index.html",
+    "main.3ac5f87c.css.map": "/codebridge-news/static/css/main.3ac5f87c.css.map",
+    "main.bcf47ddd.js.map": "/codebridge-news/static/js/main.bcf47ddd.js.map"
   },
   "entrypoints": [
     "static/css/main.3ac5f87c.css",
-    "static/js/main.ec88012f.js"
+    "static/js/main.bcf47ddd.js"
   ]
 }
